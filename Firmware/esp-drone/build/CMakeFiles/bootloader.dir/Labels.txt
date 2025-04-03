@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/CMakeFiles/bootloader
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/CMakeFiles/bootloader.rule
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/CMakeFiles/bootloader-complete.rule
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/ESP-Drone-althold_tof/Firmware/esp-drone/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
